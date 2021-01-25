@@ -2,7 +2,7 @@
 
 
 ## About
-Video Streaming App - Streaming videos using RTSP url and video view and linear layout.
+Video Streaming App - Streaming videos using RTSP url and video view and linear layout. Each Video have its date of upload , no of views and description .
 
 
 ## Structure
